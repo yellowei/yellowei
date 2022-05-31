@@ -1,4 +1,3 @@
-<img src="https://skyline.github.com/yellowei/2020.png"/>
 
                                      @yellowei's 2021 GitHub Skyline           
 
