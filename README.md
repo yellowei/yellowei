@@ -19,7 +19,16 @@
 </div>
 
 ## Star
-  [![](https://github-readme-stats.vercel.app/api/pin/?username=yellowei&repo=CYPlayer)](https://github.com/yellowei/CYPlayer)
+  
+<div>
+  <a href="https://github.com/yellowei/CYPlayer">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=yellowei&repo=CYPlayer"/>
+  </a>
+  <a href="https://github.com/yellowei/CYPlayer">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=yellowei&repo=CYFFmpeg"/>
+  </a>
+</div>
+    
   
 ## Some Labels
   ![Profile views](https://gpvc.arturio.dev/yellowei)
