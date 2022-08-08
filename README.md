@@ -24,6 +24,8 @@
   <a href="https://github.com/yellowei/CYPlayer">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=yellowei&repo=CYPlayer"/>
   </a>
+</div>
+<div>
   <a href="https://github.com/yellowei/CYPlayer">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=yellowei&repo=CYFFmpeg"/>
   </a>
